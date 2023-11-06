@@ -1,0 +1,12 @@
+
+2023-02-28 14:52:02.884510
+Traceback (most recent call last):
+  File "/Users/franco/Documents/Python/exceptions.py", line 15, in <module>
+    print(a+c)
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+
+2023-02-28 14:52:27.014446
+Traceback (most recent call last):
+  File "/Users/franco/Documents/Python/exceptions.py", line 15, in <module>
+    print(a+c)
+NameError: name 'a' is not defined

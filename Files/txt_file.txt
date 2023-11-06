@@ -1,0 +1,4 @@
+Mi nombre es Franco
+Me gusta programar en Python
+Me encanta poder escribir en un archivo de texto.
+Y poder leerlo.
